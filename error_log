@@ -1,0 +1,32 @@
+[08-Mar-2021 07:20:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/r2p690nbivxn/public_html/wp-content/themes/custom-theme/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/r2p690nbivxn/public_html/wp-content/themes/custom-theme/index.php on line 1
+[09-Mar-2021 07:21:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/r2p690nbivxn/public_html/wp-content/themes/custom-theme/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/r2p690nbivxn/public_html/wp-content/themes/custom-theme/index.php on line 1
+[10-Mar-2021 07:24:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/r2p690nbivxn/public_html/wp-content/themes/custom-theme/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/r2p690nbivxn/public_html/wp-content/themes/custom-theme/index.php on line 1
+[11-Mar-2021 07:15:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/r2p690nbivxn/public_html/wp-content/themes/custom-theme/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/r2p690nbivxn/public_html/wp-content/themes/custom-theme/index.php on line 1
+[12-Mar-2021 07:17:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/r2p690nbivxn/public_html/wp-content/themes/custom-theme/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/r2p690nbivxn/public_html/wp-content/themes/custom-theme/index.php on line 1
+[13-Mar-2021 07:18:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/r2p690nbivxn/public_html/wp-content/themes/custom-theme/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/r2p690nbivxn/public_html/wp-content/themes/custom-theme/index.php on line 1
+[14-Mar-2021 07:21:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/r2p690nbivxn/public_html/wp-content/themes/custom-theme/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/r2p690nbivxn/public_html/wp-content/themes/custom-theme/index.php on line 1
+[02-Aug-2022 11:07:45 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/creapkxk/insitechstaging.com/demo/hope-for-dogs/wp/wp-content/themes/custom-theme/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/creapkxk/insitechstaging.com/demo/hope-for-dogs/wp/wp-content/themes/custom-theme/index.php on line 1
